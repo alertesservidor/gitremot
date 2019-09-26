@@ -2,6 +2,8 @@
 /**
  * WordPress User Page
  *
+ * LO QUE PASÓ, PASÓ, ENTRE TÚ Y YO
+ *
  * Handles authentication, registering, resetting passwords, forgot password,
  * and other user handling.
  *
